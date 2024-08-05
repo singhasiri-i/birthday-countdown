@@ -1,4 +1,17 @@
-# React + TypeScript + Vite
+# Birthday Countdown
+
+> **Language**: React JavaScript
+
+> **Description**: A birthday countdown page using Vite, countdown by second till midnight of the setup date.
+
+> **Project preview**:
+
+> <img width="1470" alt="image" src="https://github.com/user-attachments/assets/82d38023-8e08-4c33-b9f9-3135507a6b03">
+
+
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -7,7 +20,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+### Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
