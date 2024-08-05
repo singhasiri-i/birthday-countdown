@@ -2,7 +2,7 @@
 
 > **Language**: React JavaScript
 
-> **Description**: A birthday countdown page using Vite, countdown by second till midnight of the setup date.
+> **Description**: A birthday countdown page using Vite, countdown by second till midnight of the setup date. To start the project, please run for `npm run dev`.
 
 > **Project preview**:
 
